@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.moodle.moodlemobile",
+    "app_id" : "com.academy.diamondlearn",
     "appname": "Diamond Learn",
     "versioncode" : "2018",
     "versionname" : "3.3.0",
@@ -9,7 +9,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "diamondlearn",
     "siteurl": "diamondacademylearningportal.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",

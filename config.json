@@ -1,6 +1,6 @@
 {
-    "app_id" : "com.academy.diamondlearn",
-    "appname": "Diamond Learn",
+    "app_id" : "com.moodle.moodlemobile",
+    "appname": "Diamond Learning",
     "versioncode" : "2018",
     "versionname" : "3.3.0",
     "cache_expiration_time" : 300000,
@@ -9,8 +9,8 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "diamondlearn",
-    "siteurl": "https://diamondacademylearningportal.com",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "diamondacademylearningportal.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "true",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
